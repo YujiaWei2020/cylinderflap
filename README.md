@@ -12,8 +12,8 @@ The ground truth vs prediction vs error in displacement vs error in velocity
 
 <table>
   <tr>
+    <th>Random triangular shape</th>
     <th>Random prism shape</th>
-    <th>Random circle shape</th>
   </tr>
   <tr>
     <td><img src="FSI_anim.gif" width="400" /></td>
