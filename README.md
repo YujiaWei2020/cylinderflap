@@ -17,6 +17,6 @@ The ground truth vs prediction vs error in displacement vs error in velocity
   </tr>
   <tr>
     <td><img src="FSI_anim.gif" width="400" /></td>
-    <td><img src="Results.png" width="400"/></td>
+    <td><img src="FSI_anim_tiny" width="400"/></td>
   </tr>
 </table>
